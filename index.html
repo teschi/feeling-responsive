@@ -1,0 +1,32 @@
+---
+layout: blog-under-page
+title: "Herzlich willkommen..."
+sidebar: right
+intro_page: 0_index_header.md   # HACK!!! name must begin with a character smaller than "i" (so it's rendered before index.html)
+      
+# subheadline: "Hier evtl. Motto???"
+
+teaser: "auf der Internetseite des Arbeitskreises „Historische Gelehrten- und Wissenschaftssprachen“ (HiGeWiS). Ziel 
+von HiGeWiS ist es, die Erforschung der sprachlichen Verfasstheit historischer Gelehrten- und Wissenschaftskulturen 
+im internationalen Rahmen zu befördern. Der  Arbeitskreis führt dazu regelmäßig Tagungen durch und informiert über einschlägige Projekte, 
+Veranstaltungen, Publikationen etc.
+<br><br>
+Nachfolgend finden Sie aktuelle Hinweise in Gestalt eines Blogs; ältere Einträge sind im „Blogarchiv“ am Ende der Seite verfügbar. 
+Weitere Informationen zum Arbeitskreis und eine Link-Sammlung zum Thema 'historische Gelehrten- und Wissenschaftssprachen' erhalten 
+Sie über die Menüzeile am Anfang der Seite."
+
+#
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+homepage: true
+---
+
+<br>
+{% for intropg in site.pages %}
+  {% if intropg.name == {{page.intro_page}} %}
+	{{intropg.content}} 
+  {% endif %}
+{% endfor %}
+
+

@@ -51,13 +51,13 @@ a:active {
 ------------------------------------------------------------------- */
 
 p {
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-    -ms-word-break: break-all;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    /* -ms-word-break: break-all; */
     /* Non standard for webkit */
-    word-break: break-word;
+    /* word-break: break-word; */
 }
 p a,
 article a {
