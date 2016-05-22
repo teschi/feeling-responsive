@@ -16,7 +16,9 @@ header:
 
 
 
-Phil. Diss. Universität Regensburg, 2015.
+Dissertation, Universität Regensburg, 2015.
+
+Die Online-Ausgabe der Dissertation (als pdf) finden Sie [hier]( http://epub.uni-regensburg.de/32397/ ){:target="_blank"}
 
 > Die Arbeit befasst sich mit sprachlichen und textuellen Merkmalen der deutschen Wissenschaftssprache und zeigt ihre 
 Entwicklung seit dem 18. Jahrhundert anhand einer Analyse der Textsorte „wissenschaftlicher Artikel“. Die untersuchten Artikel 
