@@ -25,4 +25,4 @@ wissenschaftlichen Lehre – auch morgen noch zukommen?
 
 Organisation: Goethe-Institut.
 
-Das Programm der Veranstaltung finden Sie [hier]( https://www.goethe.de/de/spr/eng/dwl.html ){:target="_blank"}
+Weitere Informationen zu dieser Veranstaltung finden Sie [hier]( http://www.vds-ev.de/infobriefe2015/1548-vds-infobrief-47-2015#Goethe ){:target="_blank"}

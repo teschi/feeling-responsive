@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gebrauchsnormen der Wissenschaftssprache und ihre Entwicklung vom 18. bis zum 21. Jh.
-subheadline: "Isabell Deml"
+subheadline: "Isabell Deml (2015)"
 categories:
     - Neuerscheinung
 #tags:

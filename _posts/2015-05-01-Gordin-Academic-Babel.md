@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific Babel
-subheadline: "Michael D. Gordin"
+subheadline: "Michael D. Gordin (2015)"
 teaser: "The Language of Science from the Fall of Latin to the Rise of English"
 categories:
     - Neuerscheinung
@@ -17,7 +17,7 @@ header:
 
 
 
-London: Profile Books, 2015.
+London: Profile Books.
 
 > Today scientists are a resolutely monoglot community, using exclusively English - but the rise of English was anything but 
 inevitable and only very recent. In a sweeping history, from the Middle Ages through to today, Michael Gordin untangles the web 

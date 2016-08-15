@@ -4,7 +4,7 @@ title: Entstehung und Frühgeschichte der modernen deutschen Wissenschaftssprach
 subheadline: "Greifswald, 12.-14.11.2015"
 teaser: "Vernakuläre Gelehrtenkommunikation in der Frühen Neuzeit"
 categories:
-    - Veranstaltung
+    - Tagung
 #tags:
 #   - background color
 #    - header
