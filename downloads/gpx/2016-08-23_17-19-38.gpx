@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx
+	version="1.1"
+	creator="MyTourbook 16.8.0.20160801-1549 - http://mytourbook.sourceforge.net"
+	xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:gpxdata="http://www.cluetrust.com/XML/GPXDATA/1/0"
+	xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+	xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+	xmlns:mt="net.tourbook/1"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd 
+	http://www.cluetrust.com/XML/GPXDATA/1/0 http://www.cluetrust.com/Schemas/gpxdata10.xsd 
+	http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd 
+	http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<metadata>	
+		<time>2016-08-23T15:19:38Z</time>
+		<bounds minlat="47.8884818" minlon="8.1355502" maxlat="47.8998085" maxlon="8.1520417"/>
+	</metadata>
+	<trk>
+		<trkseg>
+			<trkpt lat="47.8976425" lon="8.149073">
+				<time>2016-08-23T15:19:38Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>31899.0</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8975406" lon="8.1488373">
+				<time>2016-08-23T15:20:02Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>31919.951</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8974122" lon="8.1486262">
+				<time>2016-08-23T15:20:20Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>31941.234</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.897276" lon="8.1484263">
+				<time>2016-08-23T15:20:34Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>31962.514</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8971858" lon="8.1481779">
+				<time>2016-08-23T15:20:50Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>31983.621</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8970641" lon="8.1479425">
+				<time>2016-08-23T15:21:06Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32005.824</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8969877" lon="8.1476616">
+				<time>2016-08-23T15:21:18Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32028.48</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8968625" lon="8.1474482">
+				<time>2016-08-23T15:21:30Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32049.656</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8966886" lon="8.1472147">
+				<time>2016-08-23T15:21:44Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32075.707</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8966608" lon="8.1469192">
+				<time>2016-08-23T15:22:00Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32098.02</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.896559" lon="8.1466569">
+				<time>2016-08-23T15:22:12Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32120.664</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8964374" lon="8.1464124">
+				<time>2016-08-23T15:22:28Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32143.402</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8962994" lon="8.1461521">
+				<time>2016-08-23T15:22:44Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32168.188</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8961923" lon="8.1459199">
+				<time>2016-08-23T15:22:56Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32189.24</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.89604" lon="8.1456697">
+				<time>2016-08-23T15:23:10Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32214.477</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8959241" lon="8.1454088">
+				<time>2016-08-23T15:23:24Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32237.855</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8958215" lon="8.1451699">
+				<time>2016-08-23T15:23:38Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32259.053</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8956731" lon="8.1449525">
+				<time>2016-08-23T15:23:52Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32282.215</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8955448" lon="8.144709">
+				<time>2016-08-23T15:24:08Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32305.346</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8954146" lon="8.1444993">
+				<time>2016-08-23T15:24:28Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32326.688</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8952576" lon="8.1443294">
+				<time>2016-08-23T15:25:26Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32348.277</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8951482" lon="8.144083">
+				<time>2016-08-23T15:25:50Z</time>
+				<ele>845.575</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32370.355</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8950138" lon="8.1438378">
+				<time>2016-08-23T15:26:04Z</time>
+				<ele>845.518</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32394.01</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8948701" lon="8.1436716">
+				<time>2016-08-23T15:26:18Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32414.252</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8947262" lon="8.1434381">
+				<time>2016-08-23T15:26:34Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32437.934</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8945501" lon="8.1432699">
+				<time>2016-08-23T15:26:46Z</time>
+				<ele>845.642</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32461.205</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8944006" lon="8.1430992">
+				<time>2016-08-23T15:27:00Z</time>
+				<ele>845.815</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32482.164</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8942447" lon="8.1429215">
+				<time>2016-08-23T15:27:16Z</time>
+				<ele>845.676</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32504.006</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8941007" lon="8.142687">
+				<time>2016-08-23T15:27:32Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32527.75</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8939635" lon="8.1424756">
+				<time>2016-08-23T15:27:46Z</time>
+				<ele>845.55</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32549.719</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8938264" lon="8.1422692">
+				<time>2016-08-23T15:27:58Z</time>
+				<ele>845.827</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32571.412</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8936781" lon="8.142091">
+				<time>2016-08-23T15:28:10Z</time>
+				<ele>845.907</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32592.613</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8935435" lon="8.1418689">
+				<time>2016-08-23T15:28:26Z</time>
+				<ele>845.881</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32614.969</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8933961" lon="8.1416819">
+				<time>2016-08-23T15:28:39Z</time>
+				<ele>845.642</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32636.514</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8932506" lon="8.1414683">
+				<time>2016-08-23T15:28:54Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32659.248</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8931563" lon="8.1412369">
+				<time>2016-08-23T15:29:04Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32679.48</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.893072" lon="8.1409813">
+				<time>2016-08-23T15:29:18Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32700.77</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8929524" lon="8.1407601">
+				<time>2016-08-23T15:29:30Z</time>
+				<ele>845.883</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32721.992</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8928296" lon="8.1405446">
+				<time>2016-08-23T15:29:42Z</time>
+				<ele>846.604</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32743.113</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8926419" lon="8.1403974">
+				<time>2016-08-23T15:29:56Z</time>
+				<ele>846.204</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32766.709</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.892496" lon="8.1402065">
+				<time>2016-08-23T15:30:10Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32788.32</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.892362" lon="8.1399949">
+				<time>2016-08-23T15:30:24Z</time>
+				<ele>845.537</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32810.051</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8922095" lon="8.1398211">
+				<time>2016-08-23T15:30:39Z</time>
+				<ele>846.063</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32831.418</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8916038" lon="8.1388594">
+				<time>2016-08-23T15:32:01Z</time>
+				<ele>845.843</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>32984.523</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8914523" lon="8.138681">
+				<time>2016-08-23T15:32:17Z</time>
+				<ele>845.931</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33006.012</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8913153" lon="8.1385038">
+				<time>2016-08-23T15:32:29Z</time>
+				<ele>845.962</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33026.203</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8911757" lon="8.1382829">
+				<time>2016-08-23T15:32:44Z</time>
+				<ele>846.079</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33048.867</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8910485" lon="8.138078">
+				<time>2016-08-23T15:32:57Z</time>
+				<ele>846.312</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33069.723</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8909098" lon="8.1378312">
+				<time>2016-08-23T15:33:11Z</time>
+				<ele>845.966</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33093.773</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8908021" lon="8.1376112">
+				<time>2016-08-23T15:33:23Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33114.121</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8906981" lon="8.1373495">
+				<time>2016-08-23T15:33:37Z</time>
+				<ele>846.111</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33136.852</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.890572" lon="8.1371448">
+				<time>2016-08-23T15:33:47Z</time>
+				<ele>846.669</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33157.613</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8904344" lon="8.1369204">
+				<time>2016-08-23T15:34:01Z</time>
+				<ele>846.947</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33180.32</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8902878" lon="8.1367065">
+				<time>2016-08-23T15:34:17Z</time>
+				<ele>846.817</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33203.16</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8901136" lon="8.1365467">
+				<time>2016-08-23T15:34:33Z</time>
+				<ele>846.226</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33225.918</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8899584" lon="8.1363624">
+				<time>2016-08-23T15:34:45Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33248.004</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8898241" lon="8.1361828">
+				<time>2016-08-23T15:35:01Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33268.086</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8896845" lon="8.1360074">
+				<time>2016-08-23T15:35:21Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33288.41</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8895284" lon="8.1358106">
+				<time>2016-08-23T15:35:37Z</time>
+				<ele>845.624</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33311.164</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8893548" lon="8.1356447">
+				<time>2016-08-23T15:35:49Z</time>
+				<ele>846.133</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33334.109</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8891712" lon="8.1356467">
+				<time>2016-08-23T15:36:07Z</time>
+				<ele>845.728</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33354.527</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8889725" lon="8.1355545">
+				<time>2016-08-23T15:36:27Z</time>
+				<ele>845.918</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33377.668</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8887848" lon="8.1355502">
+				<time>2016-08-23T15:36:46Z</time>
+				<ele>846.003</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33398.543</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.888618" lon="8.135679">
+				<time>2016-08-23T15:37:05Z</time>
+				<ele>845.814</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33419.441</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8885305" lon="8.135933">
+				<time>2016-08-23T15:37:26Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33440.781</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8884818" lon="8.1362212">
+				<time>2016-08-23T15:37:47Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33463.004</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8885144" lon="8.1365039">
+				<time>2016-08-23T15:38:03Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33484.457</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8885416" lon="8.1367871">
+				<time>2016-08-23T15:38:19Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33505.852</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8886126" lon="8.137069">
+				<time>2016-08-23T15:38:35Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33528.363</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8886624" lon="8.1373693">
+				<time>2016-08-23T15:38:51Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33551.492</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.888734" lon="8.1376486">
+				<time>2016-08-23T15:39:05Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33573.848</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8887123" lon="8.1379417">
+				<time>2016-08-23T15:39:22Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33595.898</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8887333" lon="8.1382322">
+				<time>2016-08-23T15:39:37Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33617.75</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8888013" lon="8.1384833">
+				<time>2016-08-23T15:39:52Z</time>
+				<ele>845.578</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33637.992</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8888238" lon="8.138764">
+				<time>2016-08-23T15:40:10Z</time>
+				<ele>845.715</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33659.133</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8888022" lon="8.139031">
+				<time>2016-08-23T15:40:26Z</time>
+				<ele>845.866</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33679.246</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8889505" lon="8.1391927">
+				<time>2016-08-23T15:40:44Z</time>
+				<ele>845.761</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33699.691</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8891125" lon="8.1390673">
+				<time>2016-08-23T15:41:14Z</time>
+				<ele>845.559</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33720.0</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.889266" lon="8.1392075">
+				<time>2016-08-23T15:41:46Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33740.031</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8893863" lon="8.139422">
+				<time>2016-08-23T15:42:04Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33760.918</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8894262" lon="8.1396943">
+				<time>2016-08-23T15:42:20Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33781.758</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8893523" lon="8.139959">
+				<time>2016-08-23T15:42:34Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33803.191</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8892794" lon="8.1402225">
+				<time>2016-08-23T15:42:52Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33824.5</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8892205" lon="8.140482">
+				<time>2016-08-23T15:43:08Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33844.98</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8892002" lon="8.1407584">
+				<time>2016-08-23T15:43:26Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33865.777</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8893662" lon="8.1409107">
+				<time>2016-08-23T15:43:45Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33887.465</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8895391" lon="8.140829">
+				<time>2016-08-23T15:44:07Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33907.637</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.88962" lon="8.1405626">
+				<time>2016-08-23T15:46:57Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33929.496</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8895768" lon="8.1402813">
+				<time>2016-08-23T15:49:06Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33951.074</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8896019" lon="8.1399772">
+				<time>2016-08-23T15:51:34Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33973.984</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8895377" lon="8.1402562">
+				<time>2016-08-23T15:51:39Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>33996.039</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8896284" lon="8.1400159">
+				<time>2016-08-23T15:51:51Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34016.645</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897291" lon="8.1402805">
+				<time>2016-08-23T15:52:49Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34039.383</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897149" lon="8.1405621">
+				<time>2016-08-23T15:53:07Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34060.5</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897157" lon="8.140864">
+				<time>2016-08-23T15:53:23Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34083.078</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897467" lon="8.14114">
+				<time>2016-08-23T15:53:39Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34104.004</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897473" lon="8.1414238">
+				<time>2016-08-23T15:53:53Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34125.227</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8897762" lon="8.1416916">
+				<time>2016-08-23T15:54:11Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34145.512</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8898294" lon="8.1419643">
+				<time>2016-08-23T15:54:25Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34166.746</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8899044" lon="8.1422126">
+				<time>2016-08-23T15:54:39Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34187.102</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8899224" lon="8.1425092">
+				<time>2016-08-23T15:54:53Z</time>
+				<ele>845.501</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34209.371</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8899321" lon="8.1428068">
+				<time>2016-08-23T15:55:09Z</time>
+				<ele>845.531</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34231.652</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8900471" lon="8.1430167">
+				<time>2016-08-23T15:55:27Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34251.898</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8901694" lon="8.1432432">
+				<time>2016-08-23T15:55:43Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34273.621</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8902612" lon="8.1434811">
+				<time>2016-08-23T15:55:57Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34294.133</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8903977" lon="8.1436938">
+				<time>2016-08-23T15:56:15Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34316.117</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8905017" lon="8.143933">
+				<time>2016-08-23T15:56:33Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34337.418</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.890578" lon="8.1441984">
+				<time>2016-08-23T15:56:53Z</time>
+				<ele>845.542</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34359.004</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8906535" lon="8.144465">
+				<time>2016-08-23T15:57:11Z</time>
+				<ele>845.808</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34380.633</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8907058" lon="8.1447294">
+				<time>2016-08-23T15:57:27Z</time>
+				<ele>845.918</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34401.246</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8906781" lon="8.1450215">
+				<time>2016-08-23T15:57:43Z</time>
+				<ele>846.293</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34423.305</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8907477" lon="8.1452886">
+				<time>2016-08-23T15:58:01Z</time>
+				<ele>846.249</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34444.727</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8908442" lon="8.1455526">
+				<time>2016-08-23T15:58:19Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34467.195</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8909958" lon="8.1457221">
+				<time>2016-08-23T15:58:41Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34488.285</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.891059" lon="8.1459835">
+				<time>2016-08-23T15:58:57Z</time>
+				<ele>845.891</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34509.059</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8911413" lon="8.1462313">
+				<time>2016-08-23T15:59:15Z</time>
+				<ele>846.397</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34529.727</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8911497" lon="8.146536">
+				<time>2016-08-23T15:59:34Z</time>
+				<ele>847.066</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34552.531</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8913106" lon="8.1466734">
+				<time>2016-08-23T15:59:46Z</time>
+				<ele>846.817</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34573.164</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8912719" lon="8.1469396">
+				<time>2016-08-23T16:00:02Z</time>
+				<ele>849.089</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34593.527</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8913426" lon="8.1472184">
+				<time>2016-08-23T16:00:21Z</time>
+				<ele>850.266</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34615.812</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8914335" lon="8.1474629">
+				<time>2016-08-23T16:00:37Z</time>
+				<ele>850.118</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34636.703</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8915182" lon="8.1477262">
+				<time>2016-08-23T16:00:53Z</time>
+				<ele>850.221</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34658.527</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8915172" lon="8.1480069">
+				<time>2016-08-23T16:01:09Z</time>
+				<ele>852.26</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34679.52</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8917009" lon="8.1481199">
+				<time>2016-08-23T16:01:23Z</time>
+				<ele>848.341</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34701.625</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8918885" lon="8.1481963">
+				<time>2016-08-23T16:01:43Z</time>
+				<ele>847.963</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34723.25</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.892085" lon="8.1482163">
+				<time>2016-08-23T16:02:01Z</time>
+				<ele>847.211</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34745.152</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.89227" lon="8.1482874">
+				<time>2016-08-23T16:02:18Z</time>
+				<ele>846.549</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34766.398</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.89245" lon="8.1483169">
+				<time>2016-08-23T16:02:34Z</time>
+				<ele>845.739</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34786.531</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8926188" lon="8.1484419">
+				<time>2016-08-23T16:02:48Z</time>
+				<ele>845.61</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34807.5</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8928049" lon="8.1485334">
+				<time>2016-08-23T16:03:06Z</time>
+				<ele>845.653</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34829.293</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8930011" lon="8.1485774">
+				<time>2016-08-23T16:03:20Z</time>
+				<ele>845.616</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34851.355</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8931799" lon="8.1486826">
+				<time>2016-08-23T16:03:40Z</time>
+				<ele>845.579</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34872.734</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8933128" lon="8.1484463">
+				<time>2016-08-23T16:05:36Z</time>
+				<ele>845.504</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34895.77</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8932338" lon="8.148197">
+				<time>2016-08-23T16:07:12Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34916.379</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8934226" lon="8.1481313">
+				<time>2016-08-23T16:09:30Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34937.938</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8936236" lon="8.1481144">
+				<time>2016-08-23T16:09:42Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34960.324</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8938127" lon="8.1482481">
+				<time>2016-08-23T16:10:00Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>34983.605</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8940092" lon="8.1481534">
+				<time>2016-08-23T16:10:16Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35006.57</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8941913" lon="8.1482036">
+				<time>2016-08-23T16:10:30Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35027.164</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8943679" lon="8.1482674">
+				<time>2016-08-23T16:10:46Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35047.371</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8945521" lon="8.1483237">
+				<time>2016-08-23T16:11:02Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35068.281</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.894733" lon="8.1483204">
+				<time>2016-08-23T16:11:14Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35088.398</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8949098" lon="8.1484298">
+				<time>2016-08-23T16:11:30Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35109.688</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8950902" lon="8.1484468">
+				<time>2016-08-23T16:11:44Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35129.789</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8952832" lon="8.1484484">
+				<time>2016-08-23T16:11:56Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35151.246</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.895502" lon="8.148409">
+				<time>2016-08-23T16:12:11Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35175.754</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8956944" lon="8.1485282">
+				<time>2016-08-23T16:12:33Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35198.93</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8958834" lon="8.1485337">
+				<time>2016-08-23T16:12:47Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35219.945</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8960635" lon="8.1485742">
+				<time>2016-08-23T16:12:59Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35240.199</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8962438" lon="8.1485921">
+				<time>2016-08-23T16:13:11Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35260.293</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8964316" lon="8.1485958">
+				<time>2016-08-23T16:13:25Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35281.176</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8966003" lon="8.1486933">
+				<time>2016-08-23T16:13:41Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35301.297</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8967808" lon="8.1488091">
+				<time>2016-08-23T16:13:57Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35323.156</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8969622" lon="8.1489004">
+				<time>2016-08-23T16:14:15Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35344.449</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8971542" lon="8.1489357">
+				<time>2016-08-23T16:14:29Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35365.961</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.897331" lon="8.149097">
+				<time>2016-08-23T16:14:45Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35389.023</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8974899" lon="8.1492347">
+				<time>2016-08-23T16:15:01Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35409.473</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8976252" lon="8.1494217">
+				<time>2016-08-23T16:15:17Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35430.012</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.897764" lon="8.149621">
+				<time>2016-08-23T16:15:35Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35451.465</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8979432" lon="8.1497542">
+				<time>2016-08-23T16:15:49Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35473.742</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.898099" lon="8.1499165">
+				<time>2016-08-23T16:16:03Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35494.891</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8982399" lon="8.1501326">
+				<time>2016-08-23T16:16:23Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35517.398</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8983892" lon="8.1503491">
+				<time>2016-08-23T16:16:37Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35540.586</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8985231" lon="8.1505557">
+				<time>2016-08-23T16:16:49Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35562.039</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8986473" lon="8.1507539">
+				<time>2016-08-23T16:17:01Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35582.297</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8987876" lon="8.1510011">
+				<time>2016-08-23T16:17:15Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35606.48</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8989063" lon="8.1512304">
+				<time>2016-08-23T16:17:27Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35628.117</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8990464" lon="8.1514671">
+				<time>2016-08-23T16:17:43Z</time>
+				<ele>845.5</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35651.695</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8991593" lon="8.1516841">
+				<time>2016-08-23T16:17:57Z</time>
+				<ele>845.533</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35672.211</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8992882" lon="8.1518936">
+				<time>2016-08-23T16:18:15Z</time>
+				<ele>847.121</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35693.441</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8994586" lon="8.152018">
+				<time>2016-08-23T16:18:35Z</time>
+				<ele>848.842</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35714.547</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.899641" lon="8.1520417">
+				<time>2016-08-23T16:20:11Z</time>
+				<ele>850.423</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35734.906</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8996436" lon="8.1517136">
+				<time>2016-08-23T16:20:53Z</time>
+				<ele>850.125</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35759.438</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8997526" lon="8.1519432">
+				<time>2016-08-23T16:21:11Z</time>
+				<ele>851.297</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35780.453</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8996233" lon="8.1517027">
+				<time>2016-08-23T16:21:17Z</time>
+				<ele>849.891</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35803.477</gpxdata:distance>
+				</extensions>
+			</trkpt>
+			<trkpt lat="47.8998085" lon="8.1519695">
+				<time>2016-08-23T16:21:27Z</time>
+				<ele>851.802</ele>
+				<extensions>
+					<gpxtpx:TrackPointExtension>
+						<gpxtpx:cad>0</gpxtpx:cad>
+					</gpxtpx:TrackPointExtension>
+					<gpxdata:distance>35832.148</gpxdata:distance>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
