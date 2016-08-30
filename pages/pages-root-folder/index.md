@@ -6,7 +6,7 @@
 #
 layout: default
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header-bus.jpg
 
 permalink: /index.html
 #
@@ -17,4 +17,14 @@ homepage: true
 ---
 
 
-## Ein kleiner Urlaubsblog
+## Ein Urlaubsblog
+
+
+<br>Dies ist ein kleines Experiment die üblichen Urlaubskarten etwas mit Daten anzureichern.
+
+Der Blog ist mit heißer Nadel zusammengestrickt und enthält noch einige Grafiken aus den "feeling-responsive" Tutorials, ggf. ändert sich das für den nächsten Urlaub.
+
+Genug Vorwort, [HIER](/blog) geht's zum Urlaubsblog.
+
+Grüße,
+  Teschi
