@@ -20,7 +20,7 @@ homepage: true
 ## Ein Urlaubsblog
 
 
-<br>Dies ist ein kleines Experiment die üblichen Urlaubskarten etwas mit Daten anzureichern.
+<br>Dies ist ein kleines Experiment um die üblichen Urlaubskarten etwas mit Daten anzureichern.
 
 Der Blog ist mit heißer Nadel zusammengestrickt und enthält noch einige Grafiken aus den "feeling-responsive" Tutorials, ggf. ändert sich das für den nächsten Urlaub.
 
