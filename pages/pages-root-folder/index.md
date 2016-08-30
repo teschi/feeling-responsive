@@ -24,6 +24,9 @@ homepage: true
 
 Der Blog ist mit heißer Nadel zusammengestrickt und enthält noch einige Grafiken aus den "feeling-responsive" Tutorials, ggf. ändert sich das für den nächsten Urlaub.
 
-Genug Vorwort, [HIER](/blog) geht's zum Urlaubsblog.
+Genug Vorwort, [HIER][1] geht's zum Urlaubsblog.
 
 Grüße, Teschi
+
+
+ [1]: {{ site.url }}/blog/
