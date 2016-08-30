@@ -26,5 +26,4 @@ Der Blog ist mit heißer Nadel zusammengestrickt und enthält noch einige Grafik
 
 Genug Vorwort, [HIER](/blog) geht's zum Urlaubsblog.
 
-Grüße,
-  Teschi
+Grüße, Teschi
