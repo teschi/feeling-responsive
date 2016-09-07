@@ -7,7 +7,7 @@ header:
 
 
 
-### "Historische Gelehrten- und Wissenschaftssprachen"
+### "Lingua Academica"
 
  
 Herausgegeben von Wolf Peter Klein (Würzburg), Michael Prinz (Zürich) und Jürgen Schiewe (Greifswald)

@@ -22,7 +22,7 @@ auf den Seiten des Krupp-Kollegs in Greifswald
 
 * Flyer mit dem <a href="http://www.wiko-greifswald.de/fileadmin/dateien/pdf/Veranstaltungen/2015-W/Flyer_8-Seiten%20Wissenschaftssprache_final.pdf" target="_blank">Tagungsprogramm</a>
 
-* Tagungsbericht von Anne Diehr in der ZGL (im Druck)
+* [Tagungsbericht]( {{site.url}}/downloads/zgl-2016-0014.pdf ){:target="_blank"} von Anne Diehr (Greifswald) in der Zeitschrift für germanistische Linguistik.
 
 ![Tagungsposter]( {{site_url}}/images/Poster_Greifswald_klein.jpg )
 
