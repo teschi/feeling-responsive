@@ -7,20 +7,20 @@ header:
 
 
 
-## 2017: Würzburg 
+## 2017: Würzburg
 
-in Planung
+### "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"
 
+Julius-Maximilians-Universität Würzburg, Lehrstuhl für deutsche Sprachwissenschaft, 12.-13. Oktober 2017
+
+
+* [Tagungshomepage]( http://www.germanistik.uni-wuerzburg.de/lehrstuehle/lehrstuhl_fuer_deutsche_sprachwissenschaft/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"} 
 
 ## 2015: Greifswald 
 
+### "Entstehung und Frühgeschichte der modernen deutschen Wissenschaftssprachen. Vernakuläre Gelehrtenkommunikation in der Frühen Neuzeit"
 
-Alfried Krupp Wissenschaftskolleg, 12.-14. November 2015  
-
-* [Tagungshomepage]( http://www.wiko-greifswald.de/de/veranstaltung/article/entstehung-und-fruehgeschichte-der-modernen-deutschen-wissenschaftssprachen-vernakulaere-gelehrtenk.html ){:target="_blank"} 
-auf den Seiten des Krupp-Kollegs in Greifswald
-
-* Flyer mit dem <a href="http://www.wiko-greifswald.de/fileadmin/dateien/pdf/Veranstaltungen/2015-W/Flyer_8-Seiten%20Wissenschaftssprache_final.pdf" target="_blank">Tagungsprogramm</a>
+Greifswald, Alfried Krupp Wissenschaftskolleg, 12.-14. November 2015  
 
 * [Tagungsbericht]( {{site.url}}/downloads/zgl-2016-0014.pdf ){:target="_blank"} von Anne Diehr (Greifswald) in der Zeitschrift für germanistische Linguistik.
 

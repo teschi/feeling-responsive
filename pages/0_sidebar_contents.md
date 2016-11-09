@@ -4,8 +4,8 @@ layout: page
 
 ## Ankündigungen
 
-### Würzburg, Herbst 2017
+### Würzburg, 12./13. Oktober 2017
 
-Zweite HiGeWiS-Tagung: "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"  
-(weitere Informationen in Kürze)
-<!-- [Tagungshomepage]( http://www.zfl-berlin.org/veranstaltungen-detail/items/ueber-wissenschaft-reden.html ){:target="_blank"} -->
+"Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"  
+(2. HiGeWiS-Tagung)
+[Tagungshomepage & CfP (Frist: 31.3.2017)]( http://www.germanistik.uni-wuerzburg.de/lehrstuehle/lehrstuhl_fuer_deutsche_sprachwissenschaft/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"}
