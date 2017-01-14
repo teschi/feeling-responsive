@@ -4,6 +4,10 @@ layout: page
 
 ## Ankündigungen
 
+### Sammelband "Stilwechsel"
+"Stilwechsel und ihre Funktionen in Textsorten der Fach- und Wissenschaftskommunikation"  
+[CfP (Frist: 31.01.2017)]( {{site.url}}/downloads/CfP_Stilwechsel.pdf ){:target="_blank"}
+
 ### Würzburg, 12./13. Oktober 2017
 
 "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"  
