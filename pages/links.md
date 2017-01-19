@@ -5,7 +5,7 @@ header:
     image_fullwidth: "background_Tillberg.jpg"
 ---
 
-### Digitale Ressourcen
+### 1. Digitale Ressourcen
 <br>
 
 * Digitale Volltexte zur Geschichte der deutschen Fach- und Wissenschaftssprachen (Wolf Peter Klein, Universität Würzburg)
@@ -24,6 +24,14 @@ Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 781 Werke ver
 [Projektseite]( http://www.deutschestextarchiv.de/list/browse?genre=Wissenschaft ){:target="_blank"}
  
  
+* GeSIG - Das gemeinsame sprachliche Inventar der Geisteswissenschaften (Christian Fandrych, Universität Leipzig)
+
+> Das Projekt GeSIG verfolgt das Ziel, die Sprache der Geisteswissenschaften korpusmethodisch zu beschreiben. Im Fokus stehen 
+nicht-terminologische, disziplinübergreifend verwendete Ausdrucksmittel, wie sie etwa in den sprachlichen Handlungen des 
+Voraussetzens, des Begründens, des Folgerns, des Einschränkens, des Übertragens und Vergleichens zu finden sind. -
+[Projektseite]( http://research.uni-leipzig.de/gesig/index.html ){:target="_blank"}
+
+ 
 * RIDGES - Register in Diachronic German Science (Anke Lüdeling, HU Berlin) 
 
 > Das RIDGES-Projekt (Register in Diachronic German Science) untersucht die Entstehung und Entwicklung der deutschen 
@@ -33,3 +41,11 @@ um Entwicklungen und Tendenzen identifizieren und beschreiben zu können. In ein
 wissenschaftliche Texte mit korpuslinguistischen Methoden und nutzen quantitative Verfahren, um Veränderungen in den Merkmalen 
 zu identifizieren. - 
 [Projektseite]( http://korpling.german.hu-berlin.de/ridges/index_de.html ){:target="_blank"}
+
+<br>
+
+### 2. Kooperationspartner
+<br>
+
+* GGSG - Gesellschaft für germanistische Sprachgeschichte e.V.  
+[Homepage]( http://germanistische-sprachgeschichte.de/ ){:target="_blank"}
