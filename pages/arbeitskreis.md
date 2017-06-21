@@ -16,7 +16,7 @@ Seitentrieb der Fachsprachengeschichte zu einem fruchtbaren Forschungsfeld im Sc
 kulturwissenschaftlicher, wissens-, wissenschafts- und universitätsgeschichtlicher, nicht zuletzt natürlich auch 
 sprachhistorischer Zugänge entwickelt. Der Arbeitskreis HiGeWiS zielt auf eine Konvergenz dieser unterschiedlichen 
 Forschungsansätze im Hinblick auf eine fächerübergreifende Wissenschaftssprachgeschichte und eine Integration des Forschungsfelds. 
-In Verbindung mit der Publikationsreihe „Historische Gelehrten- und Wissenschaftssprachen“ soll der Arbeitskreis einen Beitrag dazu 
+In Verbindung mit der Publikationsreihe „Lingua Academica (LIAC) - Beiträge zur Erforschung historischer Gelehrten- und Wissenschaftssprachen“ soll der Arbeitskreis einen Beitrag dazu 
 leisten, die historischen Wissenschaftssprachen als ein wichtiges interdisziplinäres Forschungsfeld auch historisch klarer zu konturieren 
 und die bestehenden Forschungsansätze zusammenzuführen sowie über Fächer- und Ländergrenzen hinaus besser anschlussfähig zu machen.
 
@@ -29,7 +29,7 @@ zahlreiche Wissenschaftlerinnen und Wissenschaftler aus Linguistik, Literatur- u
 Wissenschafts- und Universitätsgeschichte zusammenführte. In diesem Rahmen entstand der Wunsch, die internationale und interdisziplinäre Zusammenarbeit bei 
 der Erforschung historischer Gelehrten- und Wissenschaftssprachen nachhaltig zu verbessern und das Forschungsfeld über einen gemeinsamen 
 Arbeitskreis effektiver und sichtbarer in der Fachöffentlichkeit zu präsentieren. 
-Dem Arbeitskreis gehören derzeit 30 Mitglieder aus neun Ländern an (China, Deutschland, Großbritannien, Lettland, Österreich, Polen, Schweiz, Tschechien, USA). 
+Dem Arbeitskreis gehören derzeit **31 Mitglieder aus zehn Ländern** an (China, Deutschland, Großbritannien, Lettland, Österreich, Polen, Schweden, Schweiz, Tschechien, USA). 
 
 
 ## Mitgliedschaft
