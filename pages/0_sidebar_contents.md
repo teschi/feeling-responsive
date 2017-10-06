@@ -8,4 +8,5 @@ layout: page
 
 "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"  
 (2. HiGeWiS-Tagung)
-[Tagungshomepage & CfP (Frist: 31.3.2017)]( http://www.germanistik.uni-wuerzburg.de/lehrstuehle/lehrstuhl_fuer_deutsche_sprachwissenschaft/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"}
+[Tagungshomepage]( http://www.sprawi.germanistik.uni-wuerzburg.de/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"}
+bzw. [Programm]( http://www.sprawi.germanistik.uni-wuerzburg.de/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/programm/ ){:target="_blank"}

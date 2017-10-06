@@ -8,11 +8,11 @@ header:
 ### 1. Digitale Ressourcen
 <br>
 
-* Digitale Volltexte zur Geschichte der deutschen Fach- und Wissenschaftssprachen (Wolf Peter Klein, Universität Würzburg)
+* Fachtexte-Datenbank: Deutsche Fach- und Wissenschaftssprachen bis 1700 (Wolf Peter Klein, Universität Würzburg)
 
 > Die Sammlung digitaler Volltexte umfasst den Zeitraum bis zum Jahr 1700. Sie dokumentiert den Zugang zu den im Internet 
 verfügbaren Volltexten, die für die deutsche Fach- und Wissenschaftssprachgeschichte von Interesse sind. - 
-[Projektseite]( http://www.fachtexte.germanistik.uni-wuerzburg.de/ ){:target="_blank"}
+[Projektseite]( http://kallimachos.de/fachtexte/index.php/Hauptseite ){:target="_blank"}
 
 
 * DTA - Deutsches Textarchiv (Kategorie "Wissenschaft")
