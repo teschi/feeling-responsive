@@ -28,11 +28,12 @@ populärwissenschaftliche Sprach- und Kommunikationsformen sowie Fragen des Wiss
 
 * [Weitere Informationen]( https://www.degruyter.com/view/serial/486225?rskey=RG1b1p&result=1 ){:target="_blank"} auf den Seiten des Verlags Walter de Gruyter
 
-* in Planung: 6 Bände für 2017/2018 
+* in Planung: 6 Bände für 2018/2019 
 
 * Wissenschaftlicher Beirat: Ulrich Ammon (Duisburg-Essen), Marian Füssel (Göttingen), Daniel Fulda (Halle), 
 Michael D. Gordin (Princeton), Mechthild Habermann (Erlangen), Marion Gindhart (Mainz), Thomas Gloning (Gießen), 
 Angelika Linke (Zürich/Linköping), Leo Kretzenbacher (Melbourne), Uwe Pörksen (Freiburg), Ulrich Johannes Schneider (Leipzig), 
 Dirk Werle (Heidelberg)
 
-![LIAC]( {{site_url}}/images/LIAC.jpg )
+![LIAC]( {{site_url}}/images/LIAC_2.jpg )
+![LIAC]( {{site_url}}/images/LIAC_3.jpg )

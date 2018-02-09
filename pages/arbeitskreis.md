@@ -29,7 +29,7 @@ zahlreiche Wissenschaftlerinnen und Wissenschaftler aus Linguistik, Literatur- u
 Wissenschafts- und Universitätsgeschichte zusammenführte. In diesem Rahmen entstand der Wunsch, die internationale und interdisziplinäre Zusammenarbeit bei 
 der Erforschung historischer Gelehrten- und Wissenschaftssprachen nachhaltig zu verbessern und das Forschungsfeld über einen gemeinsamen 
 Arbeitskreis effektiver und sichtbarer in der Fachöffentlichkeit zu präsentieren. 
-Dem Arbeitskreis gehören derzeit **31 Mitglieder aus zehn Ländern** an (China, Deutschland, Großbritannien, Lettland, Österreich, Polen, Schweden, Schweiz, Tschechien, USA). 
+Dem Arbeitskreis gehören derzeit **36 Mitglieder aus zehn Ländern** an (China, Deutschland, Großbritannien, Lettland, Österreich, Polen, Schweden, Schweiz, Tschechien, USA). 
 
 
 ## Mitgliedschaft

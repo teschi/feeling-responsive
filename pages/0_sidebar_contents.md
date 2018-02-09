@@ -4,9 +4,9 @@ layout: page
 
 ## Ankündigungen
 
-### Würzburg, 12./13. Oktober 2017
+### Würzburg, 23.-25. September 2018
 
-"Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"  
-(2. HiGeWiS-Tagung)
-[Tagungshomepage]( http://www.sprawi.germanistik.uni-wuerzburg.de/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"}
-bzw. [Programm]( http://www.sprawi.germanistik.uni-wuerzburg.de/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/programm/ ){:target="_blank"}
+#### Stadtsprachen: Institutionen, Orte der Schriftlichkeit, Individuen
+(36. Jahrestagung des Internationalen Arbeitskreises Stadtsprachenforschung)
+
+[Call for Papers]( {{site.url}}/downloads/CfP Stadtsprachentagung 2018.pdf ){:target="_blank"}
