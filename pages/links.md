@@ -31,6 +31,15 @@ nicht-terminologische, disziplinübergreifend verwendete Ausdrucksmittel, wie si
 Voraussetzens, des Begründens, des Folgerns, des Einschränkens, des Übertragens und Vergleichens zu finden sind. -
 [Projektseite]( http://research.uni-leipzig.de/gesig/index.html ){:target="_blank"}
 
+
+* HiVoKo - Historisches Vorlesungskorpus (Michael Prinz, Universität Zürich)
+
+> Im Rahmen des Projekts "Historisches Vorlesungskorpus" (Diachronic Lecture Corpus) wird ein annotiertes Textkorpus handschriftlicher 
+studentischer Vorlesungsnachschriften ab ca. 1700 aufgebaut. Damit sollen Erkenntnisse über die historische akademische Mündlichkeit und die Entwicklung der 
+akademischen Lehre vor- und frühmoderner Wissenschaftskulturen gewonnen werden. Studentische Vorlesungsnotizen stellen zudem eine wichtige Quelle für die 
+Rekonstruktion der Lese- und Schreibpraktiken akademischer note-taking communities dar. -
+[Projektseite]( http://www.ds.uzh.ch/Forschung/Projekte/hivoko/index.php ){:target="_blank"}
+
  
 * RIDGES - Register in Diachronic German Science (Anke Lüdeling, HU Berlin) 
 
