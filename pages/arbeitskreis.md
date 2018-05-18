@@ -42,4 +42,4 @@ unterrichtet zu werden. Mitgliedsbeiträge werden **nicht** erhoben.
 
 ## Vorstand
 
-Prof. Dr. Wolf Peter Klein (Universität Würzburg) und Dr. Michael Prinz (Universität Zürich)
+Prof. Dr. Wolf Peter Klein (Universität Würzburg) und PD Dr. Michael Prinz (Universität Zürich)

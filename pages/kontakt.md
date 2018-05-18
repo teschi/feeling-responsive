@@ -18,7 +18,7 @@ Am Hubland,
 D-97074 Würzburg - [E-Mail]( mailto:wolfpeter.klein@uni-wuerzburg.de )
 
 
-* Dr. [Michael Prinz]( http://www.ds.uzh.ch/Institut/Mitarbeitende/index.php?detail=726 ){:target="_blank"},
+* PD Dr. [Michael Prinz]( http://www.ds.uzh.ch/Ueber_uns/Personen/index.php?detail=726 ){:target="_blank"},
 Universität Zürich,
 Deutsches Seminar,
 Schönberggasse 9,

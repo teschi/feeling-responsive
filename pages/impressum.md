@@ -4,7 +4,7 @@ title: Impressum
 
 ---
 
-Dr. Michael Prinz, 
+PD Dr. Michael Prinz, 
 Universität Zürich,
 Deutsches Seminar,
 Schönberggasse 9,
