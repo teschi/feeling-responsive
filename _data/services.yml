@@ -4,6 +4,10 @@
   url: "/pages/impressum/"
   title: "Impressum"
 
+- name: "Datenschutz"
+  url: "/pages/datenschutz/"
+  title: "Datenschutz"
+
 - name: "RSS"
   url: "/feed.xml"
   title: "RSS feed abonnieren"
