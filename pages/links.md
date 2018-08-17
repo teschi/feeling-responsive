@@ -38,7 +38,7 @@ Voraussetzens, des Begründens, des Folgerns, des Einschränkens, des Übertrage
 studentischer Vorlesungsnachschriften ab ca. 1700 aufgebaut. Damit sollen Erkenntnisse über die historische akademische Mündlichkeit und die Entwicklung der 
 akademischen Lehre vor- und frühmoderner Wissenschaftskulturen gewonnen werden. Studentische Vorlesungsnotizen stellen zudem eine wichtige Quelle für die 
 Rekonstruktion der Lese- und Schreibpraktiken akademischer note-taking communities dar. -
-[Projektseite]( http://www.ds.uzh.ch/Forschung/Projekte/hivoko/index.php ){:target="_blank"}
+[Projektseite]( https://www.ds.uzh.ch/de/forschung/projekte/hivoko.html ){:target="_blank"}
 
  
 * RIDGES - Register in Diachronic German Science (Anke Lüdeling, HU Berlin) 
