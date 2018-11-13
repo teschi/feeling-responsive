@@ -17,7 +17,7 @@ header:
 
 
 
-Am 12. und 13. November 2017 fand an der Universität Würzburg die 2. HiGeWiS-Tagung statt. Aus dem Tagungsexposé: 
+Am 12. und 13. Oktober 2017 fand an der Universität Würzburg die 2. HiGeWiS-Tagung statt. Aus dem Tagungsexposé: 
 
 > Das Interesse an der Geschichte von Fach-, Gelehrten- und Wissenschaftssprachen besitzt eine deutliche interdisziplinäre Basis. Es 
 speist sich aus verschiedenen Quellen und Motivationen. Um nur vier Konstellationen zu nennen: Sprachwissenschaftlich ist die allmähliche 

@@ -14,7 +14,7 @@ header:
 Julius-Maximilians-Universität Würzburg, Lehrstuhl für deutsche Sprachwissenschaft, 12.-13. Oktober 2017
 
 
-* [Tagungshomepage]( http://www.germanistik.uni-wuerzburg.de/lehrstuehle/lehrstuhl_fuer_deutsche_sprachwissenschaft/forschung/tagung_geschichte_der_fach_und_wissenschaftssprachen/ ){:target="_blank"} 
+* [Tagungshomepage]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagung-geschichte-der-fach-und-wissenschaftssprachen/ ){:target="_blank"} 
 
 ## 2015: Greifswald 
 

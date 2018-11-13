@@ -4,11 +4,11 @@ layout: page
 
 ## Ankündigungen
 
-### Würzburg, 24.-25. September 2018
+### Eichstätt, 22.-24. September 2019
 
-#### Stadtsprachen: Institutionen, Orte der Schriftlichkeit, Individuen
-(36. Jahrestagung des Internationalen Arbeitskreises Stadtsprachenforschung)
+#### Die Sprache wissenschaftlicher Objekte
+(3. HiGeWiS-Tagung)
 
-[Programm]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagung-stadtsprachen-institutionen-orte-der-schriftlichkeit-individuen-jahrestagung-des-iak-historische-stadtsprachenforschung/programm/ ){:target="_blank"}
+[CfP] in Kürze
 
-[CfP]( {{site.url}}/downloads/CfP Stadtsprachentagung 2018.pdf ){:target="_blank"}
+
