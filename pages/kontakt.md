@@ -18,12 +18,12 @@ Am Hubland,
 D-97074 Würzburg - [E-Mail]( mailto:wolfpeter.klein@uni-wuerzburg.de )
 
 
-* PD Dr. [Michael Prinz]( http://www.ds.uzh.ch/Ueber_uns/Personen/index.php?detail=726 ){:target="_blank"},
-Universität Zürich,
-Deutsches Seminar,
-Schönberggasse 9,
-CH-8001 Zürich - [E-Mail]( http://www.ds.uzh.ch/_tools/mailform.php?id=726&request=%2Findex.php%253F%2FInstitut%2FMitarbeitende%2Findex.php%253Fdetail%3D726 ){:target="_blank"}
+* Assoc. Prof. Dr. [Michael Prinz]( https://katalog.uu.se/profile/?id=N18-2697 ){:target="_blank"},
+Uppsala University,
+Department of Modern Languages (German),
+Box 636,
+751 26 Uppsala, Sweden - [E-Mail]( mailto:michael.prinz@moderna.uu.se )
 
 
 ### Mitteilungen 
-Neuerscheinungen, Veranstaltungsankündigungen etc., die auf der HiGeWiS-Website publiziert werden sollen, schicken Sie bitte an [diese Adresse]( http://www.ds.uzh.ch/_tools/mailform.php?id=726&request=%2Findex.php%253F%2FInstitut%2FMitarbeitende%2Findex.php%253Fdetail%3D726 ){:target="_blank"}.
+Neuerscheinungen, Veranstaltungsankündigungen etc., die auf der HiGeWiS-Website publiziert werden sollen, schicken Sie bitte an [diese Adresse]( mailto:michael.prinz@moderna.uu.se ).

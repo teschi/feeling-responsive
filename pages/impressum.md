@@ -4,12 +4,11 @@ title: Impressum
 
 ---
 
-PD Dr. Michael Prinz, 
-Universität Zürich,
-Deutsches Seminar,
-Schönberggasse 9,
-CH-8001 Zürich - [E-Mail]( http://www.ds.uzh.ch/_tools/mailform.php?id=726&request=%2Findex.php%253F%2FInstitut%2FMitarbeitende%2Findex.php%253Fdetail%3D726 ){:target="_blank"}
-
+Assoc. Prof. Dr. Michael Prinz,
+Uppsala University,
+Department of Modern Languages (German),
+Box 636,
+751 26 Uppsala, Sweden
 
 
 ## Dank

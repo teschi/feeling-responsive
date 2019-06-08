@@ -29,10 +29,11 @@ Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ o
 
 ### Verantwortlicher
 
-PD Dr. Michael Prinz  
-Universität Zürich, Deutsches Seminar  
-Schönberggasse 9  
-CH-8001 Zürich
+Assoc. Prof. Dr. Michael Prinz  
+Uppsala University 
+Department of Modern Languages (German)
+Box 636
+751 26 Uppsala, Sweden
 
 ### Arten der verarbeiteten Daten:
 

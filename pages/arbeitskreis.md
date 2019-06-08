@@ -29,7 +29,7 @@ zahlreiche Wissenschaftlerinnen und Wissenschaftler aus Linguistik, Literatur- u
 Wissenschafts- und Universitätsgeschichte zusammenführte. In diesem Rahmen entstand der Wunsch, die internationale und interdisziplinäre Zusammenarbeit bei 
 der Erforschung historischer Gelehrten- und Wissenschaftssprachen nachhaltig zu verbessern und das Forschungsfeld über einen gemeinsamen 
 Arbeitskreis effektiver und sichtbarer in der Fachöffentlichkeit zu präsentieren. 
-Dem Arbeitskreis gehören derzeit **38 Mitglieder aus zehn Ländern** an (Deutschland, Großbritannien, Italien, Lettland, Österreich, Polen, Schweden, Schweiz, Tschechien, USA). 
+Dem Arbeitskreis gehören derzeit **40 Mitglieder aus zehn Ländern** an (Deutschland, Großbritannien, Italien, Lettland, Österreich, Polen, Schweden, Schweiz, Tschechien, USA). 
 
 
 ## Mitgliedschaft
@@ -42,4 +42,4 @@ unterrichtet zu werden. Mitgliedsbeiträge werden **nicht** erhoben.
 
 ## Vorstand
 
-Prof. Dr. Wolf Peter Klein (Universität Würzburg) und PD Dr. Michael Prinz (Universität Zürich)
+Prof. Dr. Wolf Peter Klein (Universität Würzburg) und Assoc. Prof. Dr. Michael Prinz (Universität Uppsala)

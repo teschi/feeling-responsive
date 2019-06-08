@@ -11,4 +11,5 @@ layout: page
 
 [CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"} 
 
+[Programm]( https://www.ku.de/slf/germanistik/deutschsprawi/tagungen-und-workshops/die-sprache-wissenschaftlicher-objekte/programm/ ){:target="_blank"}
 
